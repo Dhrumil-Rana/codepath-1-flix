@@ -1,0 +1,15 @@
+com/DhrumilRana1998/flixster/models/Movie.java
+ com.DhrumilRana1998.flixster.models.Movie
+com/DhrumilRana1998/flixster/BuildConfig.java
+ com.DhrumilRana1998.flixster.BuildConfig
+com/DhrumilRana1998/flixster/DetailActivity.java
+ com.DhrumilRana1998.flixster.DetailActivity
+ com.DhrumilRana1998.flixster.DetailActivity$1
+ com.DhrumilRana1998.flixster.DetailActivity$2
+com/DhrumilRana1998/flixster/adapters/MovieAdapter.java
+ com.DhrumilRana1998.flixster.adapters.MovieAdapter
+ com.DhrumilRana1998.flixster.adapters.MovieAdapter$ViewHolder
+ com.DhrumilRana1998.flixster.adapters.MovieAdapter$ViewHolder$1
+com/DhrumilRana1998/flixster/MainActivity.java
+ com.DhrumilRana1998.flixster.MainActivity
+ com.DhrumilRana1998.flixster.MainActivity$1

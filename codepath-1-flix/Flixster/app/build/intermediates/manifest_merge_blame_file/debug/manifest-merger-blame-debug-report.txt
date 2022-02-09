@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DhrumilRana1998.flixster"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <queries>
+13-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:7:5-11:15
+14        <intent>
+14-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:8:9-10:18
+15            <action android:name="com.google.android.youtube.api.service.START" />
+15-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:9:13-83
+15-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:9:21-80
+16        </intent>
+17    </queries>
+18
+19    <application
+19-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:13:5-35:19
+20        android:allowBackup="true"
+20-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.7.0] C:\Users\dhrum\.gradle\caches\transforms-3\9339927e08badd09bc5459e4ba900d5f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher_new"
+23-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:15:9-47
+24        android:label="Flix"
+24-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:16:9-29
+25        android:roundIcon="@mipmap/ic_launcher_new_round"
+25-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:17:9-58
+26        android:supportsRtl="true"
+26-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.Flixster" >
+28-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:19:9-46
+29        <activity
+29-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:20:9-22:40
+30            android:name="com.DhrumilRana1998.flixster.DetailActivity"
+30-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:21:13-43
+31            android:exported="false" />
+31-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:22:13-37
+32        <activity
+32-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:23:9-25:40
+33            android:name="com.gco129.flixster.DetailActivity"
+33-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:24:13-62
+34            android:exported="false" />
+34-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:25:13-37
+35        <activity
+35-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:26:9-34:20
+36            android:name="com.DhrumilRana1998.flixster.MainActivity"
+36-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:27:13-41
+37            android:exported="true" >
+37-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:28:13-36
+38            <intent-filter>
+38-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:29:13-33:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:30:17-69
+39-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:30:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:32:17-77
+41-->C:\Users\dhrum\Desktop\Dhrumil\School\FifthSem\Android_Studio\Homework\Homework_1\Flixster\codepath-1-flix\codepath-1-flix\Flixster\app\src\main\AndroidManifest.xml:32:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="com.DhrumilRana1998.flixster.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dhrum\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dhrum\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dhrum\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dhrum\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
